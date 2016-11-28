@@ -4,4 +4,4 @@ Save the cisco_inven.sh, then create "log" folder.</br>
 chmod +x cisco_inven.sh.</br>
 After the script is running, you will get the log file</br></br></br>
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L52B7JBCFKMJE)
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H2MN56F9KZW2N)
